@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "incubate-nepal",
+  "private_key_id": "c7bbd43b6ef8993878263d2dbb59cfb75dcdfa37",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCy63rf9X6rWX8v\njhtyCGlH4BqBNIEx8/7MZUil1k2E3VCMznp+F30nNK8sYPRw/X4BAfekUQPne/eE\nMCAMKgUSe3PhfiRQ9uJA2GFQrkWGQb3+QNJ8RfNhh5mScWYYdgfxnmTPCe/+C5Ve\nPWd4bnL0hsyEGAbhCJ/zP4Xm9oc/cDIPS5EP/+st9jPFZimwyPIezy5erfIKysSg\nHXaGh089tOmDf/qO0Fi1o/uJAXTNBX2o7fl+rmbNPJ0rW3SQcS7NpR2h9pRgJAbK\n1pSQDApZAMwV0O0i9HCFenMiHrcnAKodlTthOJkyAUxfIRB96tVP1xFoU/OaDdO/\nubcNCUxzAgMBAAECggEACl1a0mOB0YJPPF2CmIIFO00vq+FzRIYKciPB6B14gyRg\n+K8zaF+K9/z00uDQ+ESvCnbnNiUdUUkcpxM0oA/FGHN/XIY2q1wJ8lC2nnph+6uO\nSo7NwrY4qaM10cZw8CTSQ/x1gYrlVLWuEvYCqvbXAPRYH6TWrS2XOnupEZ6hahrI\nayvwnJ9TARCQokHYae7htNvh/tANVb9z5tVtcX+brdW6z8GLNO3V62r7nneD3Pey\nNYaYDl8X+0vE8ZJ/kWEqNqYgieD+kPPYDFx1YznFxuDkytkspM/i3fv6hIJLstJG\nvnL4/Qu0z50WF9pfsaHfyLdZwV4XSi3OT9NPlM5ffQKBgQDj9VuMOXY/HOm5YoLr\ngkuUJZT1Ti19/B587VC1EO+hy1gi5ms9Vt0xXP23ZJSHwpYRz7yKsIv8gQqKREiV\ny7ObgWbyWhkHesZfJzmyzEewBoA+NCeB4yLNcjEr1lTqCqUoDVWQBwbwewpr9mUO\nWVFvFicqGcM+P8CI2gdKluFAtQKBgQDI7dj45g0V8KTKTa6is6UkRT/UWAI2pD+J\ny3ULKniuZQRulYE8w+YmWfiQCeqPe2k9Tm8xlKPKZMHRzyPJKk8VjWzaIK+iRmeI\nijDoqfbKalPNc8CU9LukgAdDjfNBypmBiuPmjhoz7+qXHcD+vMBp3ElpOxaUw/4p\n2PG/SsSZhwKBgH/utw4fQYlyBImSC794REpEPTDeSxGlaMbbuKulcZbvs+sCPbUT\nBtgpRAqkW+dFAUvFth5vrmBrWyr133aR956SJOBmSB22fZXxQaRimOjk/Rvr0TBH\n9MQwDgB4LPecOcwcj6RhDTfxFYw5n8VJwzYAzMIH61cIGFm1YtotiwTxAoGAfjgz\nkX9qfvrReig8aQay2csKosi6czrQky4VE3OVpe/dTd5q9hIVtMfWBh3ElGexH4ry\n/NFj5tNOkg8uasNCNMbHt2rLCgRyK2qr+Kw0VMlgZXKuaqQmb9rhNUWppw2vSppG\nOeHQggnXcyCEyUEnGhkAoLM2pzNLqVwX2NQOFmcCgYAG0PBUFKR0xVSwaBCxRz9W\nvctMU708OsilgrMLF3iGbiLvA93h0o0Z0TB8O2FFPedxS9IBkvGzpp5O8hof1on8\nIIBs5VBVrfmGqm1sT1mAbIx1YTo/lSDsuksn4WDK9ioBP4ERF7x5LUTSr9DDiwJj\nKmb0ZjXxvyStcb5ACQFZqQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "incubatenepal@incubate-nepal.iam.gserviceaccount.com",
+  "client_id": "112092023950563431813",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/incubatenepal%40incubate-nepal.iam.gserviceaccount.com"
+}
