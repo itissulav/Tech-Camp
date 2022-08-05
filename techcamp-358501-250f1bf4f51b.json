@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "techcamp-358501",
+  "private_key_id": "250f1bf4f51b96f8c8ff92dda01b4b651b86cf4a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCzbfnvOtp4q+GX\n7zxt/7BYaLaVMo8ngQqaKBKVW2/fd6hlRjjTxw3BkPPdg+wo6GHycKcWvQZbiMlb\ncCdxUTp9uXgPeNdhJ++YkJ2EUB1zPnY48FU18AMJuLjFopQuy1rcWgvEdKOy6ADs\ngynLxYXw5MK+nBhTgCHGccndUDRHSZ9S5Pdb4WxJVKRCWsWxqS+pAVaMdZNyfgcS\n3ycZU79geLi9IaN3N7Hb0kQttZ4GCuZIAGyXy4F4ljc0Ls3LqNtwxj+Zpk5ctO+L\nXZ7qSR2BJsmrtIIbvEQ4xVMJHeKcErMHJ1UVl16HOp8VuEzUMdt/520CoQTudSWE\nGAOlubl/AgMBAAECggEACjTJazi19aLn8FGs5nWNV9y49K/4DEoJoC7YWRjm5QIJ\nmPJ6HV3CDrkf41aeMnjUHXYX+FykhcS4Q2m+l0evY+MOt76Vbb2CTPN+P5Ojtorz\n2ZWeGzUoTxTBTzNKFNv/XUUH91L1KXeLRJN0vKu4dzU5TfNTaj3XGKfJ+5CU21sg\nQ7TILXb19H3hZkFMPPQ2pljTflVblfxncUuhn3SDlo5hmBU/IkFXND7WJY3DqZNk\n9QCPTiVg6cPHl331kTaZRI9lXtbLe/3Osyq7geu1tFvvOvK4YdjgCS1v0WWiybNs\nqpYxmMF4WXE12i2uPrTkTuNfWpy+HfzR55JGoi2K+QKBgQD2sh2kHwKnutR2a014\nkxwRvkSFqCN5Yta5JM4QgIr7JeApwvIkPWpflOK2+iL9e5SH0B8/rAdG712JeYKB\n86Nxyzx4pl2nXEEQi/FQbSYM1CySB/OHkiXQYkN+D4wPuzSku9gJ3YAyBx4iefFI\n3yLddzT9pGstfO5CGiBc7uQkRwKBgQC6MmVKowLcWt7Fh0xPDykTn5O59Kne9Mqy\n15JHSouZYkGniqklpGsCBvnTVcz75dmq1t00p8eLNH0zaoRktuAOW7/rN1mRwyRt\nOG/65G20Ind4U2v2Uia4ANh/P6FanAr6Eb+ywgmpN0S4WZA1Yun0Mc7cPO6LLZ0x\nAo6UW+B1CQKBgAI3lZadBLwXLMOnsTmNMOpj6F+/JBp6Le3aC9QQI6+gJoSZkO2M\nc8FKKEN2ugvHKY2S7ET5OdOEYTXUFr0uQGDMb82xyROw+5C3gUK0yGvDGGdzlNe6\nE4bs6yhd4WdeyllUqttj1zwb3kR3DhkWkEynPp2s9Z2iCs4jR/kt2HUPAoGBAJyE\nFGVjFdqJgE3m55xlkA/wyks8gTbr6x/e2hWXcjWjRLFDe+Aqj9EKcCLYMxFkK07S\nguvqRXCc1MnNtjC7ESjAs1lUE7TVpt8w2+C4+Aa+GlNJPK24bNerzlFY+ZejKA8B\nsHThayGVVezpTLGzzhn5bHvxtEvGMiaqkZPgj5ORAoGANGp9d4iIx5uud+w2hSzQ\ngYldJpZ1ulsDcUpPVHv/eHmsoWoqc9Dwb9GmE0na323IQkGukrguait9MPHrldVr\nG45z/A5XwdjOtURQ3zBIq6v7d/A1CUCeQ++39mDE6O3uYGrxzuuQ7ZGbmg67stxu\nW5SMmo7yFXy3ZtEHfDtwDQk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "techcamp@techcamp-358501.iam.gserviceaccount.com",
+  "client_id": "114802626667718081626",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/techcamp%40techcamp-358501.iam.gserviceaccount.com"
+}
